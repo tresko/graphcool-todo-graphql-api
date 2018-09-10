@@ -1,10 +1,10 @@
 # graphcool-todo-graphql-api
 
 #### Install Graphcool:
-  npm install -g graphcool
+  ```bash npm install -g graphcool```
 
 #### Deploy service:
-  graphcool deploy
+  ```bash graphcool deploy```
 
 #### Start local Graphcool cluster:
-  graphcool local up
+  ```bash graphcool local up```
